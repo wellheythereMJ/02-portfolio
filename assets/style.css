@@ -8,7 +8,7 @@ body {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  background-color: maroon;
+  background-color: rgb(173, 17, 17);
   padding: 35px;
   margin-bottom: 0;
 }
@@ -44,4 +44,9 @@ nav a {
   align-items: flex-end;
   padding-right: 15px;
   color: white;
+}
+
+main section img {
+  width: 150px;
+  
 }
